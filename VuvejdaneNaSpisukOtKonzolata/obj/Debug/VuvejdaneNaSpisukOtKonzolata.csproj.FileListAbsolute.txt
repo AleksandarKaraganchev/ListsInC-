@@ -1,0 +1,8 @@
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\bin\Debug\VuvejdaneNaSpisukOtKonzolata.exe.config
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\bin\Debug\VuvejdaneNaSpisukOtKonzolata.exe
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\bin\Debug\VuvejdaneNaSpisukOtKonzolata.pdb
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\obj\Debug\VuvejdaneNaSpisukOtKonzolata.csproj.AssemblyReference.cache
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\obj\Debug\VuvejdaneNaSpisukOtKonzolata.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\obj\Debug\VuvejdaneNaSpisukOtKonzolata.csproj.CoreCompileInputs.cache
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\obj\Debug\VuvejdaneNaSpisukOtKonzolata.exe
+D:\Програмиране\SpisuciVCSharp\VuvejdaneNaSpisukOtKonzolata\obj\Debug\VuvejdaneNaSpisukOtKonzolata.pdb

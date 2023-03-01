@@ -1,0 +1,8 @@
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\bin\Debug\SpisukOtKrainosti.exe.config
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\bin\Debug\SpisukOtKrainosti.exe
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\bin\Debug\SpisukOtKrainosti.pdb
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.csproj.AssemblyReference.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.csproj.CoreCompileInputs.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.exe
+D:\Програмиране\SpisuciVCSharp\SpisukOtKrainosti\obj\Debug\SpisukOtKrainosti.pdb

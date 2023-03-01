@@ -1,0 +1,8 @@
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\bin\Debug\SpisukOtChetniChisla.exe.config
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\bin\Debug\SpisukOtChetniChisla.exe
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\bin\Debug\SpisukOtChetniChisla.pdb
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.csproj.AssemblyReference.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.csproj.CoreCompileInputs.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.exe
+D:\Програмиране\SpisuciVCSharp\SpisukOtChetniChisla\obj\Debug\SpisukOtChetniChisla.pdb

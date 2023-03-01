@@ -1,0 +1,8 @@
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\bin\Debug\SumaNaOburnatiChisla.exe.config
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\bin\Debug\SumaNaOburnatiChisla.exe
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\bin\Debug\SumaNaOburnatiChisla.pdb
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\obj\Debug\SumaNaOburnatiChisla.csproj.AssemblyReference.cache
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\obj\Debug\SumaNaOburnatiChisla.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\obj\Debug\SumaNaOburnatiChisla.csproj.CoreCompileInputs.cache
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\obj\Debug\SumaNaOburnatiChisla.exe
+D:\Програмиране\SpisuciVCSharp\SumaNaOburnatiChisla\obj\Debug\SumaNaOburnatiChisla.pdb

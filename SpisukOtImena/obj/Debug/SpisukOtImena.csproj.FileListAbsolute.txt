@@ -1,0 +1,8 @@
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\bin\Debug\SpisukOtImena.exe.config
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\bin\Debug\SpisukOtImena.exe
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\bin\Debug\SpisukOtImena.pdb
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\obj\Debug\SpisukOtImena.csproj.AssemblyReference.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\obj\Debug\SpisukOtImena.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\obj\Debug\SpisukOtImena.csproj.CoreCompileInputs.cache
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\obj\Debug\SpisukOtImena.exe
+D:\Програмиране\SpisuciVCSharp\SpisukOtImena\obj\Debug\SpisukOtImena.pdb
